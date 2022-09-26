@@ -1,0 +1,13 @@
+body { margin: auto;
+    width: auto;
+    height: auto;
+    display: block;
+    background:linear-gradient(red,yellow)
+}
+h1 {
+    text-align: center;
+    font: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: darkblue;
+}
